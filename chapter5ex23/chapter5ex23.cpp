@@ -1,6 +1,11 @@
-// chapter5ex23.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+/*
+file name: chapter5ex23.cpp
+programmer: Perrin
+write a program that uses a loop to display two patterns.
+Make it repeatable 
 
+File does run. Can't include screnshots.
+*/
 #include <iostream>
 using namespace std;
 
